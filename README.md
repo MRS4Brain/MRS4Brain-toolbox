@@ -75,6 +75,8 @@ Guillaume Briand
 
 Jessie Mosso 
 
+Tan Toi Phan
+
 For more details please check [Contributors file](https://github.com/AlvBrayan/MRS4Brain-toolbox/blob/main/CONTRIBUTING)
 
 ### Should you publish material that made use of MRS4Brain toolbox, please cite the following publication:
